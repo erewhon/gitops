@@ -1,2 +1,0 @@
-# gitops
-Personal GitOps
